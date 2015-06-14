@@ -17,15 +17,16 @@
 - [ ] Add useful README files
 - [ ] Add build status and coverage badges
 - [ ] Add Lincense to every project
-- [ ] Add label and milestones on github projects
+- [x] Add label and milestones on github projects
 
 ## Some good practices
 
+- [x] Track and report every task as github issue
 - [ ] Define and maintain consistent coding styles (editorconfig and jscs)
 - [ ] Good inline code documentation (javadoc and jsdoc/ngdoc)
 - [ ] 30% unit-test coverage (JUnit and Mocha)
 - [ ] Code Quality Tools (Jacoco and jshint)
-- [ ] Branch and merge strategy (github flow)
+- [x] Branch and merge strategy (github flow)
 - [ ] Integrate CI server build task on push and accepted pull-request
 - [ ] Use the best tools that opensource projects can provide
 - [ ] Read all sensitive information (ie: usernames and passwords) in execution time
