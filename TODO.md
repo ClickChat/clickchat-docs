@@ -72,6 +72,9 @@
 
 - [x] `clickchat-api` github repository
 - [ ] Use [Play!](https://www.playframework.com/)
+- [ ] Add domain layer
+- [ ] Add data layer
+- [ ] Add service layer
 - [ ] REST-API
 
 ### Nice2Have
