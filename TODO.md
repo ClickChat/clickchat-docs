@@ -80,9 +80,10 @@
 
 ### Nice2Have
 
+- [ ] Add Loggin strategy (Logentries)
 - [ ] Add API documentation (Swagger)
 - [ ] Oauth 2 authentication (Tokens)
-- [ ] Add a NoSQL datasource (MongoDB)
+- [x] Add a NoSQL datasource (MongoDB)
 - [ ] Use async queue messaging approach (RabbitMQ and Stomp, ZeroMQ)
 - [ ] Add cache layer (Redis)
 
