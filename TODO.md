@@ -57,7 +57,7 @@
 
 - [x] Brand & concept
 - [ ] Style guide
-- [ ] Wireframes/Mockups (Balsamiq mockups)
+- [x] Wireframes/Mockups (Balsamiq mockups)
 - [ ] Use a web package manager (Bower)
 - [ ] Add Javascript task support (Grunt)
 - [ ] Use CSS preprocessor (Sass)
