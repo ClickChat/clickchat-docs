@@ -52,6 +52,7 @@
 - [x] Join and Exit chat room
 - [ ] Control user inactivity
 - [x] Show user actions/events
+- [x] After join chat room, load last 20 messages
 
 ### Nice2Have
 
