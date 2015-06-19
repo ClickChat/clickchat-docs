@@ -1,4 +1,4 @@
-# ClickChat - TODO
+# [![ClickChat](http://public.acactown.org/clickchat-logo-readme-files.png)](http://bootenv.com)-TODO
 
 ## Docs
 
@@ -13,61 +13,61 @@
 
 ### Nice2Have
 
-- [ ] Publish API documentation
-- [ ] Add useful README files
-- [ ] Add build status and coverage badges
-- [ ] Add Lincense to every project
+- [x] Publish API documentation
+- [x] Add useful README files
+- [x] Add build status and coverage badges
+- [x] Add Lincense to every project
 - [x] Add label and milestones on github projects
 
 ## Some good practices
 
 - [x] Track and report every task as github issue
-- [ ] Define and maintain consistent coding styles (editorconfig and jscs)
+- [x] Define and maintain consistent coding styles (editorconfig and jscs)
 - [ ] Good inline code documentation (javadoc and jsdoc/ngdoc)
 - [ ] 30% unit-test coverage (JUnit and Mocha)
-- [ ] Code Quality Tools (Jacoco and jshint)
+- [x] Code Quality Tools (Jacoco and jshint)
 - [x] Branch and merge strategy (github flow)
-- [ ] Integrate CI server build task on push and accepted pull-request
-- [ ] Use the best tools that opensource projects can provide
-- [ ] Read all sensitive information (ie: usernames and passwords) in execution time
+- [x] Integrate CI server build task on push and accepted pull-request
+- [x] Use the best tools that opensource projects can provide
+- [x] Read all sensitive information (ie: usernames and passwords) in execution time
 
 ## Front-end
 
 - [x] `clickchat-webapp` github repository
-- [ ] Implement webapp as [SPA](http://en.wikipedia.org/wiki/Single-page_application)
-- [ ] Use [AngularJS](https://angularjs.org/)
-- [ ] Sing-in and Sign-up using [Google API](https://developers.google.com/api-client-library/javascript/start/start-js)
-- [ ] Use [Bootstrap](http://getbootstrap.com/) to responsive and mobile first approach
+- [x] Implement webapp as [SPA](http://en.wikipedia.org/wiki/Single-page_application)
+- [x] Use [AngularJS](https://angularjs.org/)
+- [x] Sing-in and Sign-up using [Google API](https://developers.google.com/api-client-library/javascript/start/start-js)
+- [x] Use [Bootstrap](http://getbootstrap.com/) to responsive and mobile first approach
 
 #### Login-Page
 
-- [ ] Sign-up flow using Google Account
-- [ ] Sign-in flow using Google Account
+- [x] Sign-up flow using Google Account
+- [x] Sign-in flow using Google Account
 
 #### Chat-Page
 
-- [ ] Sorted users list
-- [ ] Load user info (ie: nickname and avatar) from Google Account
-- [ ] Show and send messages (up to 1000 characters)
-- [ ] Join and Exit chat room
+- [x] Sorted users list
+- [x] Load user info (ie: nickname and avatar) from Google Account
+- [x] Show and send messages (up to 1000 characters)
+- [x] Join and Exit chat room
 - [ ] Control user inactivity
-- [ ] Show user actions/events
+- [x] Show user actions/events
 
 ### Nice2Have
 
 - [x] Brand & concept
 - [ ] Style guide
 - [x] Wireframes/Mockups (Balsamiq mockups)
-- [ ] Use a web package manager (Bower)
-- [ ] Add Javascript task support (Grunt)
-- [ ] Use CSS preprocessor (Sass)
+- [x] Use a web package manager (Bower)
+- [x] Add Javascript task support (Grunt)
+- [x] Use CSS preprocessor (Sass)
 - [ ] Use library to intercepts HTTP requests for DEV mode (angular-mocks)
-- [ ] Add multilingual support
+- [x] Add multilingual support
 - [ ] Use cool Bootstrap theme
 - [ ] Send emails triggered by user behavior (ie: After sign-up process)(customer.io)
-- [ ] Communication between chat user on browser and a server using WebSockets 
-- [ ] Add a front-end cache layer (cloudflare, cloudfront)
-- [ ] Static assets CDN distribution (cloudflare, cloudfront)
+- [x] Communication between chat user on browser and a server using WebSockets 
+- [x] Add a front-end cache layer (cloudflare, cloudfront)
+- [x] Static assets CDN distribution (cloudflare, cloudfront)
 
 ## Back-end
 
@@ -75,31 +75,31 @@
 - [ ] Use [Play!](https://www.playframework.com/)
 - [x] Add domain layer
 - [x] Add data layer
-- [ ] Add service layer
-- [ ] REST-API
+- [x] Add service layer
+- [x] REST-API
 
 ### Nice2Have
 
 - [x] Add Loggin strategy (Logentries)
 - [x] Add API documentation (Swagger)
-- [ ] Oauth 2 authentication (Tokens)
+- [x] Oauth 2 authentication (Tokens)
 - [x] Add a NoSQL datasource (MongoDB)
 - [ ] Use async queue messaging approach (RabbitMQ and Stomp, ZeroMQ)
-- [ ] Add cache layer (Redis)
+- [x] Add cache layer (Redis)
 - [x] Add Docker compose support
 
 ## CI/CD
 
-- [ ] Publish 1.0.0 version
+- [x] Publish 1.0.0 version
 
 ### Nice2Have
 
 - [ ] Build in one step
 - [ ] Daily builds
-- [ ] Bug database
-- [ ] Docker based production deploy
+- [x] Bug database
+- [x] Docker based production deploy
 - [ ] Add Staging and QA environment
 - [ ] Add deploy protocol and deploy scripts
-- [ ] Configure CI Server (Jenkins, Travis)
-- [ ] Configure Coverage service (Coveralls)
+- [x] Configure CI Server (Jenkins, Travis)
+- [x] Configure Coverage service (Coveralls)
 
