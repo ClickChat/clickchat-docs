@@ -50,7 +50,7 @@
 - [x] Load user info (ie: nickname and avatar) from Google Account
 - [x] Show and send messages (up to 1000 characters)
 - [x] Join and Exit chat room
-- [ ] Control user inactivity
+- [x] Control user inactivity
 - [x] Show user actions/events
 - [x] After join chat room, load last 20 messages
 
